@@ -5,7 +5,7 @@
 </div>
 &nbsp;&nbsp;
 
-## Tecnologias
+## Tecnologias 🌐
 <div > 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -16,14 +16,14 @@
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
 </div>
 
-## Sobre mim 👨
+## Sobre mim 🙋🏾
 - 🔵 Aluno do Instituto Proano
 - 👨‍💻 Desenvolvedor Full Stack
 - 💻 Analise e Desenvolvimento na UMC
 - 🕺 Adora uma resenha
 - 📽️ Amo filmes
 
-## Ferramentas 🧰
+## Ferramentas ⌨️
 <div>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
