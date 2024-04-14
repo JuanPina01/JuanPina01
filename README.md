@@ -1,5 +1,5 @@
 ## Git Status 
-<div align="center" href="https://github.com/juanpina01">
+<div align="center" href="https://github.com/JuanPina01">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=juanpina01&show_icons=true&theme=tokyonight"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpina01&layout=compact&langs_count=7&theme=tokyonight"/>    
 </div>
